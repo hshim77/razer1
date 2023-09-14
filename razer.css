@@ -107,7 +107,7 @@ a:hover{
  .section2-image-div{
      width: 100%; 
     height: 41rem; 
-    background-image:url(/RAZER/Razerimages/backtoschool.img.webp);
+    background-image:url(Razerimages/backtoschool.img.webp);
     background-size: cover;
     padding: 0px 10px;
     flex-direction: column;
@@ -134,7 +134,7 @@ a:hover{
  .section3-image-div{
     width: 100%; 
     height: 45rem; 
-    background-image:url(/RAZER/Razerimages/razer-blade-14-2023-homepage-desktop2x.jpg);
+    background-image:url(Razerimages/razer-blade-14-2023-homepage-desktop2x.jpg);
     background-size: 2100px;
     background-position: center;
     background-repeat: no-repeat;
@@ -171,7 +171,7 @@ a:hover{
  .section4-image1-div{
     flex: 50%;
     height: 41rem; 
-    background-image:url(/RAZER/Razerimages/razercon2023-480x615-mobile.webp);
+    background-image:url(Razerimages/razercon2023-480x615-mobile.webp);
     background-repeat: no-repeat;
     background-size: cover;
     border: solid 3px rgb(85, 83, 83);
@@ -181,7 +181,7 @@ a:hover{
  .section4-image2-div{
     flex: 50%; 
     height: 41rem; 
-    background-image:url(/RAZER/Razerimages/razer-kitsune-950x580-desktop.webp);
+    background-image:url(Razerimages/razer-kitsune-950x580-desktop.webp);
     background-repeat: no-repeat;
     background-size: cover;
     border: solid 3px rgb(85, 83, 83);
@@ -236,7 +236,7 @@ a:hover{
 .section5-image1-div{
    flex: 50%;
    height: 41rem; 
-   background-image:url(/RAZER/Razerimages/made-for-the-hardcore-b-950x580-desktop.webp);
+   background-image:url(Razerimages/made-for-the-hardcore-b-950x580-desktop.webp);
    background-repeat: no-repeat;
    background-size: cover;
    border: solid 3px rgb(85, 83, 83);
@@ -246,7 +246,7 @@ a:hover{
 .section5-image2-div{
    flex: 50%; 
    height: 41rem; 
-   background-image:url(/RAZER/Razerimages/mercury-blade16-blade18-b-950x580-desktop.webp);
+   background-image:url(Razerimages/mercury-blade16-blade18-b-950x580-desktop.webp);
    background-repeat: no-repeat;
    background-size: cover;
    border: solid 3px rgb(85, 83, 83);
@@ -326,7 +326,7 @@ a:hover{
 .section6-image1-div{
    flex: 50%;
    height: 41rem; 
-   background-image:url(/RAZER/Razerimages/kishi-v2-pro-for-android-b-480x615-mobile.webp);
+   background-image:url(Razerimages/kishi-v2-pro-for-android-b-480x615-mobile.webp);
    background-repeat: no-repeat;
    background-size: cover;
    border: solid 3px rgb(85, 83, 83);
@@ -337,7 +337,7 @@ a:hover{
    flex: 50%; 
    width: 100%;
    height: 41rem; 
-   background-image:url(/RAZER/Razerimages/razerdesktop.webp);
+   background-image:url(Razerimages/razerdesktop.webp);
    background-repeat: no-repeat;
    background-size:cover;
    border: solid 3px rgb(85, 83, 83);
