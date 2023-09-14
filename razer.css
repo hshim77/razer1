@@ -1,0 +1,428 @@
+body{
+    margin: 0%;
+    overflow-x: hidden;
+   background-color: black;
+    font-family: 'Heebo', sans-serif;
+}
+
+.nav-bar{
+    height: 3.75rem;
+    padding-left: 60px;
+    display: flex;
+    color: hsl(110, 19%, 33%);
+    background-color: black;
+    flex-direction: row;
+    justify-content: center;
+    gap :20px;
+    align-items: center;
+    font-size: 18px;
+     
+}
+
+.nav-list-div{
+    display:flex;
+    flex-direction: row;
+    gap: 100px;
+}
+
+.wide-link-div{
+    height: 60px;
+    color: white;
+    background-color: #555;
+    /* border-color: rgb(53, 248, 4); */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 19px;
+    border-top: 5px solid green;
+
+}
+ .section1-image-div{
+    width: 100%;
+    height: 41rem;
+    background-image: url(Razerimages/razer-blackshark-v2-hyperspeed-homepage-desktop2x.webp);
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-bottom:solid 10px rgb(85, 83, 83);
+}
+ul{
+    list-style: none;
+}
+ul:hover{
+   cursor: pointer;
+}
+a:hover{
+   cursor: pointer;
+}
+ .div2-heading-raz{
+    width: 100%;
+    height: 600px;
+ }
+ .section-1-para{
+   padding-bottom: 0px;
+ }
+ .a1-buttons{
+   color: aliceblue;
+    margin-top: -77px;
+    padding-left: 31px;;
+ }
+ .main-banner{
+    width: 100%;
+    display: flex;
+    color: aliceblue;
+    align-items: center;
+    flex-direction: column;
+    column-gap: 0px;
+    font-size: 57px;
+    height: 10px;
+    padding-top: 10px;
+ }
+ 
+ .section-2-scndbanner{
+    font-size: 30px;
+    padding-left:100px;
+ }
+ .scnd-banner-pro{
+    font-size: 30px;
+    margin-top: 10px;
+    padding-left: 420px;
+ }
+ .Abuttons-div{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    font-size: 25px;
+    padding-top: 23px;
+    color: aliceblue;
+ }  
+ .a-buttons{
+    color: aliceblue;
+    margin-top: 30px;
+ }
+ .material-symbols-outlined{
+    color: #17971d;
+  
+ }
+
+ .section2-image-div{
+     width: 100%; 
+    height: 41rem; 
+    background-image:url(/RAZER/Razerimages/backtoschool.img.webp);
+    background-size: cover;
+    padding: 0px 10px;
+    flex-direction: column;
+    justify-content: flex-start;
+    border-bottom:solid 10px rgb(85, 83, 83);
+ }
+ .section2-main-banner{
+    width: 100%;
+    display: flex;
+    color: aliceblue;
+    justify-content: center;
+    font-size: 57px;
+    height: 160px;
+    padding-top: 10px;
+ }
+ .section2-a-button{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    padding-top: 23px;
+    color: aliceblue;
+
+ }
+ .section3-image-div{
+    width: 100%; 
+    height: 45rem; 
+    background-image:url(/RAZER/Razerimages/razer-blade-14-2023-homepage-desktop2x.jpg);
+    background-size: 2100px;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 0px 10px;
+    flex-direction: column;
+    justify-content: flex-start;
+    border-bottom:solid 10px rgb(85, 83, 83);
+    margin-top: 0px;
+ }
+ .section3-main-banner{
+    width: 100%;
+    display: flex;
+    color: aliceblue;
+    justify-content: center;
+    font-size: 57px;
+    height: 160px;
+    padding-top: 10px;
+ }
+ .section-3-scndbanner{
+    font-size: 30px;
+    padding-left: 80px;
+ }
+ .section3-a-button{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    padding-top: 23px;
+    color: aliceblue;
+ }
+ .section4-2images{
+    display: flex;
+    justify-content: space-between;
+ }
+ .section4-image1-div{
+    flex: 50%;
+    height: 41rem; 
+    background-image:url(/RAZER/Razerimages/razercon2023-480x615-mobile.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: solid 3px rgb(85, 83, 83);
+    border-left: none;
+    background-position: center;
+ }
+ .section4-image2-div{
+    flex: 50%; 
+    height: 41rem; 
+    background-image:url(/RAZER/Razerimages/razer-kitsune-950x580-desktop.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: solid 3px rgb(85, 83, 83);
+    border-right: none;
+ }
+ .section4-main-banner{
+   width: 100%;
+   display: flex;
+   color: aliceblue;
+   justify-content: center;
+   font-size: 57px;
+   height: 130px;
+   padding-top: 10px;
+    font-size: 40p;
+   
+}
+.section4-a-button{
+   display: flex;
+   justify-content: center;
+   font-size: 25px;
+   padding-top: 3px;
+   color: aliceblue;
+
+}
+.section-4-scndbanner{
+   font-size: 20px;
+   position: relative;
+   top: -35px;
+   left: 46px;
+}
+.section-4-mainparar{
+   
+   justify-content: center;
+   height: 15px;
+}
+.section4-banner-span{
+   padding-left: 80px;
+   font-size: 40px;
+   padding-bottom: 0px;
+}
+.section4-abuttons{
+   padding: 50px;
+   color: white;
+}
+
+
+
+.section5-2images{
+   display: flex;
+   justify-content: space-between;
+}
+.section5-image1-div{
+   flex: 50%;
+   height: 41rem; 
+   background-image:url(/RAZER/Razerimages/made-for-the-hardcore-b-950x580-desktop.webp);
+   background-repeat: no-repeat;
+   background-size: cover;
+   border: solid 3px rgb(85, 83, 83);
+   border-left: none;
+   background-position: center;
+}
+.section5-image2-div{
+   flex: 50%; 
+   height: 41rem; 
+   background-image:url(/RAZER/Razerimages/mercury-blade16-blade18-b-950x580-desktop.webp);
+   background-repeat: no-repeat;
+   background-size: cover;
+   border: solid 3px rgb(85, 83, 83);
+   border-right: none;
+}
+.section5-1-abuttons{
+   color: white;
+}
+.section5-2-abuttons{
+   color: white;
+}
+.section5-main-banner{
+  width: 100%;
+  display: flex;
+  flex-direction:  column;
+  color: aliceblue;
+  font-size: 30px;
+  height: 30px;
+  padding-top: 10px;
+   font-size: 40p;
+  
+}
+.section5-main-banner{
+   width: 100%;
+   display: flex;
+   flex-direction:  column;
+   color: aliceblue;
+   align-items: center;
+   font-size: 30px;
+   height: 30px;
+   padding-top: 10px;
+    font-size: 40p;
+} 
+.section5-a-button{
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+  padding-top: 80px;
+  color: aliceblue;
+
+}
+.section5-2-a-button{
+   display: flex;
+   justify-content: center;
+   font-size: 25px;
+   padding-top: 170px;
+   color: aliceblue;
+ 
+ }
+.section-5-scndbanner{
+  font-size: 20px;
+   padding-left: 80px;
+}
+.section-5-mainparar{
+  justify-content: center;
+  height: 15px;
+  padding-top: 0px;
+}
+.section5-banner-span{
+  padding-left: 60px;
+  width: 200px;
+}
+.section-5-1-abuttons{
+   padding: 20px;
+   padding-top: 64px;
+   color: white;
+}
+.mercury-span{
+   font-size: 36px;
+    padding-left: 210px;
+}
+.section5-mercury{
+   padding-left: 113px;
+   height: min-content;
+   margin: 10px;
+}
+.section6-image1-div{
+   flex: 50%;
+   height: 41rem; 
+   background-image:url(/RAZER/Razerimages/kishi-v2-pro-for-android-b-480x615-mobile.webp);
+   background-repeat: no-repeat;
+   background-size: cover;
+   border: solid 3px rgb(85, 83, 83);
+   border-left: none;
+   background-position: center;
+}
+.section6-image2-div{
+   flex: 50%; 
+   width: 100%;
+   height: 41rem; 
+   background-image:url(/RAZER/Razerimages/razerdesktop.webp);
+   background-repeat: no-repeat;
+   background-size:cover;
+   border: solid 3px rgb(85, 83, 83);
+   border-right: none;
+}
+.section-2-6-mainpara{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   gap: 0px;
+
+}
+.section6-banner-span{
+   width: 80px;
+}
+.section6-mercury{
+   margin-top: 10px;
+}
+ul{
+   list-style: none;
+}
+.LASTDIV{
+  background-color: black; 
+  color: rgb(133, 133, 130);
+  
+}
+.list-div{
+   display: flex;
+    margin-left: 80px;
+   margin-right: 80px;
+   border-bottom: solid 2px grey;
+}
+
+.link-div{
+   flex: 30%;
+  
+}
+.list-in-div{
+   display: flex;flex: 70%;
+   line-height: 40px;
+   /* justify-content: start; */
+}
+
+
+.shop{
+   flex: 20%;
+}
+.Explore{
+   flex: 20%;
+}
+.Store{
+   flex: 20%;
+}
+.Company{
+   flex: 20%;
+}
+.follows{
+   flex: 20%;
+}
+.lastpara{
+   float: right;
+   color: #17971d;
+}
+
+.footer-div ul{
+   margin-left: 80px;
+   margin-right: 80px;
+   display: flex;
+   font-size: 15px;
+   color: rgb(121, 115, 115);
+   background-color: black;
+}
+.l1{
+   flex: 20%;
+}
+.l2{
+flex: 20%;
+}
+.l3{
+flex: 20%;
+
+}
+.l4{
+   flex: 20%;
+}
+footer{
+background-color: black;
+}
